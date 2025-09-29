@@ -1,6 +1,8 @@
 # Posttes-PBO-4
 ### Program ini menerapkan CRUD guna mengelola data SewaBusanaButik. Data yang disimpan pada program ini berisi id busana, nama busana, dan kategori busana. Prorgram ini menggunakan ArrayList untuk menampung data-data busana yang tersimpan. User bisa menambahkan data, melihat data, update data, dan juga menghapus data. Dan juga disini saya menambahkan 1 menu baru yaitu menu proses sewa yang berguna untuk menyewa busana. Selanjutnya, program ini menerapkan polymorphism, contoh method tampilinfo() di override pada masing-masing subclass dengan superclass "BusanaService". Ada juga diterapkan pada method hitungHarga() dengan 1 metode yaitu lama hari menyewa.
 
+<img width="420" height="324" alt="image" src="https://github.com/user-attachments/assets/0e4b9206-9454-4b41-a354-b8e0ad3567a8" />
+
 # Alur Program
 ### 1. Menu utama ditampilkan
 User memilih salah satu menu dari 6 menu yang tersedia.
