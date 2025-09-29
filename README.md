@@ -3,7 +3,7 @@
 
 # Alur Program
 ### 1. Menu utama ditampilkan
-       User memilih salah satu menu dari 6 menu yang tersedia.
+User memilih salah satu menu dari 6 menu yang tersedia.
 ### 2. Proses sewa Busana
 <img width="483" height="421" alt="image" src="https://github.com/user-attachments/assets/08dd45a8-e327-4f24-9014-628376f1e566" />
 
